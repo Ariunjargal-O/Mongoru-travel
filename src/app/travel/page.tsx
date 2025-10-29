@@ -6,6 +6,7 @@ export default function Travel() {
     <div>
       Travel Page
       adding
+      fh
     </div>
   );
 }
